@@ -1,0 +1,49 @@
+body {
+    font-family: 'Allerta', Georgia, serif;
+}
+
+.card-img-top {
+    height: 150px;
+}
+
+.card {
+    border-radius: 10px;
+    margin: 20px;
+    padding: 0px;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+.card-text {
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.cardButton {
+    margin: 5px 0;
+    padding: 10px;
+    text-transform: uppercase;
+    float: right;
+}
+
+.menu {
+    background-color: #fff;
+    margin: 5px;
+    padding-right: 0;
+    border-radius: 10px;
+
+}
+
+.menuImgs {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.info {
+    padding-top: 10px;
+}
+
